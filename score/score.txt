@@ -1,0 +1,6 @@
+Jean:10;Nibbler
+Juan:05;PacMan
+Juangergerger:50;PacMan
+Jul:05;PacMan
+Zebi:10;Nibbler
+batman:100000;PacMan
