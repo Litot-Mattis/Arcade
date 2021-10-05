@@ -87,7 +87,7 @@ int coreLoop(char **av)
                             graph1.showPacman(lib.getSnakeCoord(), static_cast<Direction>(lib.getDir()), lib.getSizeSnake(), lib.getField());
                         } if (i == 9) {
                             // std::cout << "DEBUG: je passe 3" << std::endl;
-                            //exitFlag = false;
+                            //exitFlag = false
                         }
                         c.choosenLib = graph1.getLibChoice();
                         if (c.choosenLib == 1 || c.choosenLib == 3 || c.choosenLib == 4) {
